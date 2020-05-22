@@ -1,0 +1,2 @@
+使用 gamultiobj 函数，可解决单目标和简单的多目标
+https://ww2.mathworks.cn/help/gads/gamultiobj.html?s_tid=doc_ta
